@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32.926" height="22" viewBox="0 0 32.926 22">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rechteck_148" data-name="Rechteck 148" width="32.926" height="22" transform="translate(0 0)" fill="#fff"/>
+    </clipPath>
+  </defs>
+  <g id="Gruppe_48" data-name="Gruppe 48" clip-path="url(#clip-path)">
+    <path id="Pfad_66" data-name="Pfad 66" d="M32.444,22H.483A.483.483,0,0,1,0,21.517V.483A.483.483,0,0,1,.483,0H32.444a.483.483,0,0,1,.483.483V21.517a.483.483,0,0,1-.483.483M.965,21.034h31V.966h-31Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Pfad_67" data-name="Pfad 67" d="M16.463,15.527a.481.481,0,0,1-.325-.126L.158.84A.483.483,0,0,1,.483,0H32.444a.483.483,0,0,1,.325.84L16.788,15.4a.481.481,0,0,1-.325.126M1.729.966,16.463,14.391,31.2.966Z" transform="translate(0 0)" fill="#fff"/>
+    <path id="Pfad_68" data-name="Pfad 68" d="M32.444,47.089H.483a.483.483,0,0,1-.29-.869l12.663-9.5a.483.483,0,0,1,.579.772l-11.5,8.626H31L19.634,37.6a.483.483,0,1,1,.579-.772l12.52,9.388a.483.483,0,0,1-.29.869" transform="translate(0 -25.089)" fill="#fff"/>
+  </g>
+</svg>
